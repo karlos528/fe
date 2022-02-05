@@ -58,19 +58,19 @@
     "url": "https://catalogo-vpfe-hab.dian.gov.co/User/Login",
     "icon": "https://favicons.githubusercontent.com/catalogo-vpfe-hab.dian.gov.co",
     "slug": "habilitacion",
-    "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
-    "time": 646,
-    "timeDay": 477,
-    "timeWeek": 646,
-    "timeMonth": 646,
-    "timeYear": 646,
+    "status": "up",
+    "uptime": "98.18%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "98.18%",
+    "time": 4690,
+    "timeDay": 8620,
+    "timeWeek": 4690,
+    "timeMonth": 4690,
+    "timeYear": 4690,
     "dailyMinutesDown": {
-      "2022-02-05": 24
+      "2022-02-05": 33
     }
   },
   {
