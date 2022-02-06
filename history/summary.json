@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 45,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "time": 151,
+    "timeDay": 300,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 28,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "time": 131,
+    "timeDay": 214,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 619,
-    "timeWeek": 669,
-    "timeMonth": 669,
-    "timeYear": 669,
+    "time": 682,
+    "timeDay": 737,
+    "timeWeek": 682,
+    "timeMonth": 682,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/catalogo-vpfe-hab.dian.gov.co",
     "slug": "habilitacion",
     "status": "up",
-    "uptime": "98.18%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "98.18%",
-    "time": 4690,
-    "timeDay": 8620,
-    "timeWeek": 4690,
-    "timeMonth": 4690,
-    "timeYear": 4690,
+    "uptime": "98.86%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
+    "time": 4072,
+    "timeDay": 8576,
+    "timeWeek": 4072,
+    "timeMonth": 4072,
+    "timeYear": 4072,
     "dailyMinutesDown": {
-      "2022-02-05": 33
+      "2022-02-05": 24
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 60,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "time": 256,
+    "timeDay": 274,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   }
 ]
