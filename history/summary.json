@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/www.dian.gov.co",
     "slug": "dian",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.98%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
     "time": 724,
     "timeDay": 786,
     "timeWeek": 708,
@@ -80,7 +80,7 @@
     "url": "https://catalogo-vpfe.dian.gov.co/User/Login",
     "icon": "https://favicons.githubusercontent.com/catalogo-vpfe.dian.gov.co",
     "slug": "produccion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -91,6 +91,8 @@
     "timeWeek": 335,
     "timeMonth": 313,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   }
 ]
