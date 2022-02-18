@@ -80,19 +80,19 @@
     "url": "https://catalogo-vpfe.dian.gov.co/User/Login",
     "icon": "https://favicons.githubusercontent.com/catalogo-vpfe.dian.gov.co",
     "slug": "produccion",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 438,
-    "timeWeek": 335,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 319,
+    "timeDay": 431,
+    "timeWeek": 346,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2022-02-18": 0
+      "2022-02-18": 13
     }
   }
 ]
