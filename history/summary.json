@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 290,
-    "timeWeek": 347,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "time": 270,
+    "timeDay": 366,
+    "timeWeek": 352,
+    "timeMonth": 270,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 240,
-    "timeWeek": 261,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "time": 224,
+    "timeDay": 322,
+    "timeWeek": 264,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/www.dian.gov.co",
     "slug": "dian",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.85%",
-    "time": 731,
-    "timeDay": 692,
-    "timeWeek": 766,
-    "timeMonth": 731,
-    "timeYear": 731,
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
+    "time": 737,
+    "timeDay": 897,
+    "timeWeek": 779,
+    "timeMonth": 737,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2022-02-12": 305
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 2462,
-    "timeDay": 12660,
-    "timeWeek": 3590,
-    "timeMonth": 2462,
-    "timeYear": 2462,
+    "time": 2401,
+    "timeDay": 764,
+    "timeWeek": 3620,
+    "timeMonth": 2401,
+    "timeYear": 2401,
     "dailyMinutesDown": {
       "2022-02-05": 24
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 318,
-    "timeWeek": 329,
-    "timeMonth": 309,
-    "timeYear": 309,
+    "time": 310,
+    "timeDay": 316,
+    "timeWeek": 318,
+    "timeMonth": 310,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   }
 ]
