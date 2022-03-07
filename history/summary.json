@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/www.dian.gov.co",
     "slug": "dian",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.32%",
     "time": 711,
     "timeDay": 523,
     "timeWeek": 610,
@@ -60,7 +60,7 @@
     "url": "https://catalogo-vpfe-hab.dian.gov.co/User/Login",
     "icon": "https://favicons.githubusercontent.com/catalogo-vpfe-hab.dian.gov.co",
     "slug": "habilitacion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -72,6 +72,7 @@
     "timeMonth": 1348,
     "timeYear": 1782,
     "dailyMinutesDown": {
+      "2022-03-07": 0,
       "2022-02-05": 24
     }
   },
