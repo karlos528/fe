@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 235,
-    "timeDay": 307,
-    "timeWeek": 232,
-    "timeMonth": 210,
-    "timeYear": 235,
+    "time": 236,
+    "timeDay": 291,
+    "timeWeek": 266,
+    "timeMonth": 208,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2022-03-11": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 207,
-    "timeDay": 292,
-    "timeWeek": 209,
-    "timeMonth": 196,
-    "timeYear": 207,
+    "time": 209,
+    "timeDay": 277,
+    "timeWeek": 244,
+    "timeMonth": 193,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2022-03-11": 29
     }
@@ -45,15 +45,15 @@
     "icon": "https://favicons.githubusercontent.com/www.dian.gov.co",
     "slug": "dian",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 706,
-    "timeDay": 754,
-    "timeWeek": 700,
-    "timeMonth": 681,
+    "timeDay": 741,
+    "timeWeek": 741,
+    "timeMonth": 677,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2022-02-12": 305
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.83%",
-    "time": 2230,
+    "time": 2206,
     "timeDay": 439,
-    "timeWeek": 786,
-    "timeMonth": 2201,
-    "timeYear": 2230,
+    "timeWeek": 818,
+    "timeMonth": 2202,
+    "timeYear": 2206,
     "dailyMinutesDown": {
       "2022-03-24": 19,
       "2022-03-11": 19,
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 464,
-    "timeWeek": 348,
-    "timeMonth": 336,
-    "timeYear": 320,
+    "time": 322,
+    "timeDay": 429,
+    "timeWeek": 397,
+    "timeMonth": 341,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   }
 ]
