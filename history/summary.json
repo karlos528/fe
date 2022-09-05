@@ -69,9 +69,9 @@
     "slug": "habilitacion",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "99.59%",
     "time": 1742,
     "timeDay": 5912,
@@ -79,7 +79,7 @@
     "timeMonth": 1641,
     "timeYear": 1742,
     "dailyMinutesDown": {
-      "2022-09-05": 0,
+      "2022-09-05": 9,
       "2022-08-28": 16,
       "2022-08-27": 20,
       "2022-08-18": 38,
@@ -125,9 +125,9 @@
     "url": "https://catalogo-vpfe.dian.gov.co/User/Login",
     "icon": "https://favicons.githubusercontent.com/catalogo-vpfe.dian.gov.co",
     "slug": "produccion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -137,6 +137,7 @@
     "timeMonth": 511,
     "timeYear": 376,
     "dailyMinutesDown": {
+      "2022-09-05": 0,
       "2022-07-16": 38,
       "2022-04-29": 191
     }
