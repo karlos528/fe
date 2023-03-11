@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 301,
-    "timeWeek": 236,
-    "timeMonth": 223,
-    "timeYear": 219,
-    "dailyMinutesDown": {
-      "2022-03-11": 30
-    }
+    "timeDay": 212,
+    "timeWeek": 227,
+    "timeMonth": 220,
+    "timeYear": 218,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HKA FE v2",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 279,
-    "timeWeek": 232,
-    "timeMonth": 214,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 212,
     "timeYear": 239,
-    "dailyMinutesDown": {
-      "2022-03-11": 29
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DIAN",
@@ -51,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 781,
-    "timeDay": 1052,
-    "timeWeek": 867,
-    "timeMonth": 814,
+    "timeDay": 748,
+    "timeWeek": 845,
+    "timeMonth": 803,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2022-12-16": 37,
@@ -71,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogo-vpfe-hab.dian.gov.co.ico",
     "slug": "habilitacion",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.46%",
-    "time": 1489,
-    "timeDay": 552,
-    "timeWeek": 638,
-    "timeMonth": 1076,
-    "timeYear": 1387,
+    "time": 1490,
+    "timeDay": 1969,
+    "timeWeek": 872,
+    "timeMonth": 1119,
+    "timeYear": 1394,
     "dailyMinutesDown": {
       "2023-02-28": 67,
       "2023-02-22": 47,
@@ -137,8 +133,7 @@
       "2022-04-21": 39,
       "2022-04-18": 23,
       "2022-04-08": 26,
-      "2022-03-24": 19,
-      "2022-03-11": 19
+      "2022-03-24": 19
     }
   },
   {
@@ -147,15 +142,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogo-vpfe.dian.gov.co.ico",
     "slug": "produccion",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.69%",
     "time": 576,
-    "timeDay": 542,
-    "timeWeek": 403,
-    "timeMonth": 1247,
+    "timeDay": 266,
+    "timeWeek": 399,
+    "timeMonth": 1249,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2023-02-26": 102,
