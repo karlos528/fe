@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 280,
-    "timeWeek": 223,
-    "timeMonth": 192,
+    "timeDay": 162,
+    "timeWeek": 213,
+    "timeMonth": 188,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 269,
-    "timeWeek": 184,
-    "timeMonth": 191,
+    "time": 223,
+    "timeDay": 183,
+    "timeWeek": 178,
+    "timeMonth": 188,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 791,
-    "timeDay": 949,
-    "timeWeek": 818,
-    "timeMonth": 790,
-    "timeYear": 841,
+    "timeDay": 776,
+    "timeWeek": 835,
+    "timeMonth": 784,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2023-06-15": 21,
       "2023-04-26": 68,
@@ -68,14 +68,14 @@
     "slug": "habilitacion",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "98.38%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "99.17%",
-    "time": 1305,
-    "timeDay": 4802,
-    "timeWeek": 2594,
-    "timeMonth": 2036,
+    "time": 1303,
+    "timeDay": 412,
+    "timeWeek": 4214,
+    "timeMonth": 2073,
     "timeYear": 1279,
     "dailyMinutesDown": {
       "2023-07-15": 17,
@@ -139,8 +139,7 @@
       "2022-07-31": 29,
       "2022-07-21": 25,
       "2022-07-19": 22,
-      "2022-07-18": 57,
-      "2022-07-16": 89
+      "2022-07-18": 57
     }
   },
   {
@@ -154,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.71%",
-    "time": 557,
-    "timeDay": 1987,
-    "timeWeek": 987,
-    "timeMonth": 670,
-    "timeYear": 632,
+    "time": 582,
+    "timeDay": 14444,
+    "timeWeek": 2770,
+    "timeMonth": 1093,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2023-07-05": 21,
       "2023-06-15": 20,
@@ -176,8 +175,7 @@
       "2022-10-03": 38,
       "2022-09-27": 44,
       "2022-09-07": 123,
-      "2022-09-05": 34,
-      "2022-07-16": 38
+      "2022-09-05": 34
     }
   }
 ]
