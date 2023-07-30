@@ -14,7 +14,7 @@
     "timeDay": 39,
     "timeWeek": 146,
     "timeMonth": 176,
-    "timeYear": 208,
+    "timeYear": 207,
     "dailyMinutesDown": {}
   },
   {
@@ -66,17 +66,17 @@
     "url": "https://catalogo-vpfe-hab.dian.gov.co/User/Login",
     "icon": "https://icons.duckduckgo.com/ip3/catalogo-vpfe-hab.dian.gov.co.ico",
     "slug": "habilitacion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "70.77%",
+    "uptimeDay": "71.47%",
     "uptimeWeek": "91.93%",
     "uptimeMonth": "97.21%",
     "uptimeYear": "99.17%",
     "time": 1309,
-    "timeDay": 724,
-    "timeWeek": 1131,
-    "timeMonth": 1558,
-    "timeYear": 1228,
+    "timeDay": 716,
+    "timeWeek": 1124,
+    "timeMonth": 1551,
+    "timeYear": 1227,
     "dailyMinutesDown": {
       "2023-07-30": 374,
       "2023-07-29": 376,
@@ -131,8 +131,7 @@
       "2022-10-15": 35,
       "2022-10-02": 24,
       "2022-09-26": 22,
-      "2022-09-25": 24,
-      "2022-09-24": 16
+      "2022-09-25": 24
     }
   },
   {
