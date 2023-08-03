@@ -1,7 +1,7 @@
 url: https://catalogo-vpfe-hab.dian.gov.co/User/Login
-status: down
-code: 500
-responseTime: 123
-lastUpdated: 2023-08-03T19:44:44.733Z
+status: up
+code: 200
+responseTime: 71
+lastUpdated: 2023-08-03T20:12:22.616Z
 startTime: Fri Feb 04 2022 13:32:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
