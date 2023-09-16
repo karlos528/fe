@@ -4,19 +4,19 @@
     "url": "https://emision21v4.thefactoryhka.com.co/ws/v1.0/Service.svc",
     "icon": "https://icons.duckduckgo.com/ip3/emision21v4.thefactoryhka.com.co.ico",
     "slug": "hka-fe-v4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 168,
-    "timeWeek": 78,
-    "timeMonth": 155,
+    "time": 202,
+    "timeDay": 211,
+    "timeWeek": 103,
+    "timeMonth": 159,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-09-16": 0
+      "2023-09-16": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://emision21v2.thefactoryhka.com.co/ws/v1.0/Service.svc",
     "icon": "https://icons.duckduckgo.com/ip3/emision21v2.thefactoryhka.com.co.ico",
     "slug": "hka-fe-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 185,
-    "timeWeek": 86,
-    "timeMonth": 177,
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 108,
+    "timeMonth": 180,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-09-16": 0
+      "2023-09-16": 10
     }
   },
   {
