@@ -40,9 +40,9 @@
     "url": "https://www.dian.gov.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.dian.gov.co.ico",
     "slug": "dian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -52,6 +52,7 @@
     "timeMonth": 746,
     "timeYear": 778,
     "dailyMinutesDown": {
+      "2024-02-03": 0,
       "2023-08-26": 41,
       "2023-08-25": 18,
       "2023-06-15": 21,
@@ -74,7 +75,7 @@
     "timeDay": 334,
     "timeWeek": 251,
     "timeMonth": 372,
-    "timeYear": 962,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2024-01-05": 21,
       "2023-12-18": 28,
@@ -141,7 +142,7 @@
     "timeDay": 383,
     "timeWeek": 236,
     "timeMonth": 255,
-    "timeYear": 801,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2023-12-30": 127,
       "2023-12-25": 217,
