@@ -22,9 +22,9 @@
     "url": "https://emision21v2.thefactoryhka.com.co/ws/v1.0/Service.svc",
     "icon": "https://icons.duckduckgo.com/ip3/emision21v2.thefactoryhka.com.co.ico",
     "slug": "hka-fe-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 166,
     "timeMonth": 148,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-19": 0
+    }
   },
   {
     "name": "DIAN",
@@ -49,7 +51,7 @@
     "time": 834,
     "timeDay": 956,
     "timeWeek": 798,
-    "timeMonth": 753,
+    "timeMonth": 761,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2023-08-26": 41,
