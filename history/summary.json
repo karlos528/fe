@@ -22,19 +22,19 @@
     "url": "https://emision21v2.thefactoryhka.com.co/ws/v1.0/Service.svc",
     "icon": "https://icons.duckduckgo.com/ip3/emision21v2.thefactoryhka.com.co.ico",
     "slug": "hka-fe-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 268,
-    "timeWeek": 166,
-    "timeMonth": 148,
+    "timeDay": 150,
+    "timeWeek": 149,
+    "timeMonth": 144,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-02-19": 0
+      "2024-02-19": 18
     }
   },
   {
