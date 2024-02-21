@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 31,
-    "timeWeek": 165,
-    "timeMonth": 167,
+    "timeDay": 303,
+    "timeWeek": 194,
+    "timeMonth": 168,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -24,15 +24,15 @@
     "slug": "hka-fe-v2",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 28,
-    "timeWeek": 139,
+    "timeDay": 282,
+    "timeWeek": 163,
     "timeMonth": 143,
-    "timeYear": 161,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2024-02-19": 18
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 835,
-    "timeDay": 641,
-    "timeWeek": 787,
-    "timeMonth": 762,
+    "timeDay": 1054,
+    "timeWeek": 837,
+    "timeMonth": 764,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2023-08-26": 41,
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 897,
-    "timeDay": 196,
-    "timeWeek": 291,
-    "timeMonth": 304,
-    "timeYear": 928,
+    "timeDay": 418,
+    "timeWeek": 312,
+    "timeMonth": 302,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2024-01-05": 21,
       "2023-12-18": 28,
@@ -139,10 +139,10 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.64%",
     "time": 744,
-    "timeDay": 244,
-    "timeWeek": 316,
+    "timeDay": 445,
+    "timeWeek": 372,
     "timeMonth": 260,
-    "timeYear": 792,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2024-02-11": 33,
       "2024-02-08": 100,
@@ -163,8 +163,7 @@
       "2023-06-15": 20,
       "2023-03-22": 40,
       "2023-02-26": 102,
-      "2023-02-25": 2,
-      "2023-02-21": 19
+      "2023-02-25": 2
     }
   }
 ]
