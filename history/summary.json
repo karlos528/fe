@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 44,
-    "timeWeek": 132,
-    "timeMonth": 155,
-    "timeYear": 228,
+    "timeDay": 67,
+    "timeWeek": 116,
+    "timeMonth": 145,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 42,
-    "timeWeek": 136,
-    "timeMonth": 192,
-    "timeYear": 151,
+    "timeDay": 41,
+    "timeWeek": 119,
+    "timeMonth": 183,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2024-02-19": 18
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 812,
-    "timeDay": 677,
-    "timeWeek": 718,
-    "timeMonth": 755,
+    "timeDay": 712,
+    "timeWeek": 712,
+    "timeMonth": 746,
     "timeYear": 809,
     "dailyMinutesDown": {
       "2024-05-25": 20,
@@ -75,10 +75,10 @@
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.63%",
     "time": 844,
-    "timeDay": 224,
-    "timeWeek": 725,
-    "timeMonth": 534,
-    "timeYear": 749,
+    "timeDay": 160,
+    "timeWeek": 767,
+    "timeMonth": 525,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2024-06-27": 28,
       "2024-06-21": 132,
@@ -108,8 +108,7 @@
       "2023-07-18": 17,
       "2023-07-15": 17,
       "2023-07-14": 51,
-      "2023-07-13": 20,
-      "2023-07-11": 35
+      "2023-07-13": 20
     }
   },
   {
@@ -119,17 +118,16 @@
     "slug": "produccion",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.59%",
-    "time": 691,
-    "timeDay": 14966,
-    "timeWeek": 3933,
-    "timeMonth": 1118,
-    "timeYear": 756,
+    "time": 690,
+    "timeDay": 14982,
+    "timeWeek": 3922,
+    "timeMonth": 1112,
+    "timeYear": 755,
     "dailyMinutesDown": {
-      "2024-07-09": 10,
       "2024-07-05": 22,
       "2024-06-26": 47,
       "2024-06-24": 64,
