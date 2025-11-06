@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 200,
-    "timeWeek": 175,
-    "timeMonth": 178,
-    "timeYear": 182,
+    "timeDay": 61,
+    "timeWeek": 165,
+    "timeMonth": 173,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 130,
-    "timeWeek": 168,
-    "timeMonth": 176,
-    "timeYear": 181,
+    "timeDay": 84,
+    "timeWeek": 164,
+    "timeMonth": 171,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 885,
-    "timeDay": 605,
-    "timeWeek": 798,
-    "timeMonth": 751,
+    "timeDay": 694,
+    "timeWeek": 776,
+    "timeMonth": 748,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2025-09-29": 38,
@@ -128,14 +128,14 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.21%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.68%",
     "time": 488,
-    "timeDay": 331,
-    "timeWeek": 398,
-    "timeMonth": 405,
-    "timeYear": 492,
+    "timeDay": 86,
+    "timeWeek": 307,
+    "timeMonth": 397,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2025-10-29": 381,
       "2025-06-28": 19,
@@ -160,14 +160,14 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.56%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.90%",
-    "time": 483,
-    "timeDay": 259,
-    "timeWeek": 409,
-    "timeMonth": 350,
-    "timeYear": 446,
+    "time": 482,
+    "timeDay": 174,
+    "timeWeek": 401,
+    "timeMonth": 344,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-10-29": 145,
       "2025-10-14": 25,
@@ -176,8 +176,7 @@
       "2025-05-15": 52,
       "2025-04-10": 19,
       "2025-01-09": 188,
-      "2024-11-20": 15,
-      "2024-11-06": 19
+      "2024-11-20": 15
     }
   }
 ]
