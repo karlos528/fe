@@ -42,10 +42,10 @@
     "slug": "dian",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "89.30%",
+    "uptimeWeek": "97.06%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "99.17%",
     "time": 865,
     "timeDay": 0,
     "timeWeek": 591,
@@ -122,7 +122,7 @@
       "2026-06-05": 295,
       "2026-06-07": 59,
       "2026-06-08": 143,
-      "2026-06-15": 0
+      "2026-06-15": 154
     }
   },
   {
@@ -153,13 +153,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogo-vpfe.dian.gov.co.ico",
     "slug": "produccion",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "48.85%",
-    "uptimeWeek": "28.36%",
-    "uptimeMonth": "80.55%",
-    "uptimeYear": "98.34%",
+    "uptime": "99.49%",
+    "uptimeDay": "42.95%",
+    "uptimeWeek": "26.84%",
+    "uptimeMonth": "80.20%",
+    "uptimeYear": "98.31%",
     "time": 389,
-    "timeDay": 160,
+    "timeDay": 185,
     "timeWeek": 149,
     "timeMonth": 225,
     "timeYear": 303,
@@ -176,7 +176,7 @@
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-14": 743,
-      "2026-06-15": 0
+      "2026-06-15": 154
     }
   }
 ]
