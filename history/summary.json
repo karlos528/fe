@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 80,
-    "timeWeek": 182,
+    "timeDay": 121,
+    "timeWeek": 174,
     "timeMonth": 132,
     "timeYear": 228,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 97,
-    "timeWeek": 178,
+    "timeDay": 158,
+    "timeWeek": 172,
     "timeMonth": 152,
     "timeYear": 170,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "97.94%",
     "uptimeYear": "99.16%",
     "time": 865,
-    "timeDay": 772,
-    "timeWeek": 754,
+    "timeDay": 1031,
+    "timeWeek": 771,
     "timeMonth": 648,
     "timeYear": 702,
     "dailyMinutesDown": {
@@ -136,8 +136,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 397,
-    "timeDay": 271,
-    "timeWeek": 356,
+    "timeDay": 457,
+    "timeWeek": 359,
     "timeMonth": 302,
     "timeYear": 327,
     "dailyMinutesDown": {
@@ -151,15 +151,15 @@
     "url": "https://catalogo-vpfe.dian.gov.co/User/Login",
     "icon": "https://icons.duckduckgo.com/ip3/catalogo-vpfe.dian.gov.co.ico",
     "slug": "produccion",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "73.26%",
-    "uptimeWeek": "81.05%",
-    "uptimeMonth": "71.84%",
-    "uptimeYear": "97.61%",
+    "uptimeDay": "67.43%",
+    "uptimeWeek": "80.22%",
+    "uptimeMonth": "71.65%",
+    "uptimeYear": "97.60%",
     "time": 377,
-    "timeDay": 160,
-    "timeWeek": 339,
+    "timeDay": 172,
+    "timeWeek": 333,
     "timeMonth": 231,
     "timeYear": 294,
     "dailyMinutesDown": {
@@ -185,7 +185,7 @@
       "2026-06-24": 91,
       "2026-06-25": 476,
       "2026-06-26": 384,
-      "2026-06-27": 0
+      "2026-06-27": 84
     }
   }
 ]
