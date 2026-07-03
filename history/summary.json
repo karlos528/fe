@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 120,
-    "timeWeek": 119,
-    "timeMonth": 138,
+    "timeDay": 21,
+    "timeWeek": 130,
+    "timeMonth": 141,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 124,
-    "timeWeek": 126,
-    "timeMonth": 156,
+    "timeDay": 22,
+    "timeWeek": 138,
+    "timeMonth": 160,
     "timeYear": 169,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "97.94%",
     "uptimeYear": "99.16%",
     "time": 863,
-    "timeDay": 768,
-    "timeWeek": 721,
-    "timeMonth": 666,
+    "timeDay": 633,
+    "timeWeek": 751,
+    "timeMonth": 671,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2025-07-09": 23,
@@ -135,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 399,
-    "timeDay": 350,
-    "timeWeek": 360,
-    "timeMonth": 328,
+    "timeDay": 153,
+    "timeWeek": 400,
+    "timeMonth": 335,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2025-10-29": 381,
@@ -151,14 +151,14 @@
     "slug": "produccion",
     "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "86.28%",
-    "uptimeMonth": "69.56%",
-    "uptimeYear": "97.42%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "85.13%",
+    "uptimeMonth": "69.30%",
+    "uptimeYear": "97.40%",
     "time": 325,
-    "timeDay": 151,
-    "timeWeek": 194,
-    "timeMonth": 222,
+    "timeDay": 187,
+    "timeWeek": 197,
+    "timeMonth": 223,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2025-10-14": 25,
@@ -187,7 +187,7 @@
       "2026-06-28": 127,
       "2026-06-30": 509,
       "2026-07-01": 5,
-      "2026-07-03": 0
+      "2026-07-03": 117
     }
   }
 ]
