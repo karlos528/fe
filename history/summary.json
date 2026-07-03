@@ -32,7 +32,7 @@
     "timeDay": 22,
     "timeWeek": 138,
     "timeMonth": 160,
-    "timeYear": 169,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -44,7 +44,7 @@
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.95%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "99.16%",
     "time": 863,
     "timeDay": 633,
@@ -149,16 +149,16 @@
     "url": "https://catalogo-vpfe.dian.gov.co/User/Login",
     "icon": "https://icons.duckduckgo.com/ip3/catalogo-vpfe.dian.gov.co.ico",
     "slug": "produccion",
-    "status": "down",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "62.79%",
-    "uptimeWeek": "84.31%",
-    "uptimeMonth": "68.34%",
-    "uptimeYear": "97.32%",
-    "time": 325,
-    "timeDay": 132,
-    "timeWeek": 187,
-    "timeMonth": 218,
+    "uptimeDay": "58.55%",
+    "uptimeWeek": "84.18%",
+    "uptimeMonth": "68.20%",
+    "uptimeYear": "97.31%",
+    "time": 324,
+    "timeDay": 128,
+    "timeWeek": 185,
+    "timeMonth": 217,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2025-10-14": 25,
@@ -187,7 +187,7 @@
       "2026-06-28": 127,
       "2026-06-30": 509,
       "2026-07-01": 5,
-      "2026-07-03": 535
+      "2026-07-03": 596
     }
   }
 ]
