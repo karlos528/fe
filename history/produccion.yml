@@ -1,7 +1,7 @@
 url: https://catalogo-vpfe.dian.gov.co/User/Login
-status: down
-code: 403
-responseTime: 14
-lastUpdated: 2026-07-06T01:18:05.007Z
+status: up
+code: 200
+responseTime: 486
+lastUpdated: 2026-07-06T05:40:00.776Z
 startTime: 2022-02-04T13:32:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
