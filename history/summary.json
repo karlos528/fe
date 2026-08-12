@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 124,
+    "timeDay": 0,
     "timeWeek": 134,
     "timeMonth": 148,
-    "timeYear": 226,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 112,
+    "timeDay": 0,
     "timeWeek": 142,
     "timeMonth": 156,
     "timeYear": 168,
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
     "time": 702,
-    "timeDay": 996,
+    "timeDay": 0,
     "timeWeek": 828,
     "timeMonth": 717,
-    "timeYear": 708,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2025-08-13": 51,
       "2025-08-18": 25,
@@ -120,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 344,
-    "timeDay": 332,
+    "timeDay": 0,
     "timeWeek": 308,
     "timeMonth": 343,
-    "timeYear": 338,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2025-10-29": 381,
       "2026-04-10": 32
@@ -134,19 +134,19 @@
     "url": "https://catalogo-vpfe.dian.gov.co/User/Login",
     "icon": "https://icons.duckduckgo.com/ip3/catalogo-vpfe.dian.gov.co.ico",
     "slug": "produccion",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "87.36%",
-    "uptimeWeek": "88.19%",
-    "uptimeMonth": "91.60%",
-    "uptimeYear": "96.37%",
-    "time": 304,
-    "timeDay": 182,
-    "timeWeek": 224,
-    "timeMonth": 247,
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "90.70%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "96.47%",
+    "time": 303,
+    "timeDay": 29,
+    "timeWeek": 227,
+    "timeMonth": 251,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2026-06-06": 788,
+      "2026-06-06": 257,
       "2026-06-07": 511,
       "2026-06-08": 258,
       "2026-06-09": 872,
@@ -194,7 +194,8 @@
       "2026-08-08": 308,
       "2026-08-09": 96,
       "2026-08-10": 155,
-      "2026-08-11": 220
+      "2026-08-11": 220,
+      "2026-08-12": 0
     }
   }
 ]
