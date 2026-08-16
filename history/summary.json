@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 108,
-    "timeWeek": 101,
+    "time": 213,
+    "timeDay": 210,
+    "timeWeek": 102,
     "timeMonth": 139,
-    "timeYear": 226,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 114,
-    "timeWeek": 111,
+    "timeDay": 217,
+    "timeWeek": 112,
     "timeMonth": 148,
     "timeYear": 167,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 701,
-    "timeDay": 487,
-    "timeWeek": 721,
+    "timeDay": 712,
+    "timeWeek": 683,
     "timeMonth": 704,
     "timeYear": 708,
     "dailyMinutesDown": {
@@ -119,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 344,
-    "timeDay": 319,
-    "timeWeek": 293,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "timeDay": 457,
+    "timeWeek": 294,
+    "timeMonth": 339,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2025-10-29": 381,
       "2026-04-10": 32
@@ -133,16 +133,16 @@
     "url": "https://catalogo-vpfe.dian.gov.co/User/Login",
     "icon": "https://icons.duckduckgo.com/ip3/catalogo-vpfe.dian.gov.co.ico",
     "slug": "produccion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "90.30%",
-    "uptimeMonth": "92.30%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "90.78%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "97.64%",
-    "time": 301,
-    "timeDay": 198,
-    "timeWeek": 192,
-    "timeMonth": 242,
+    "time": 300,
+    "timeDay": 211,
+    "timeWeek": 185,
+    "timeMonth": 241,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2026-06-13": 618,
@@ -190,7 +190,8 @@
       "2026-08-13": 322,
       "2026-08-12": 20,
       "2026-08-14": 79,
-      "2026-08-15": 50
+      "2026-08-15": 37,
+      "2026-08-16": 0
     }
   }
 ]
