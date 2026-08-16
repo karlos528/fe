@@ -135,10 +135,10 @@
     "slug": "produccion",
     "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "90.78%",
-    "uptimeMonth": "92.47%",
-    "uptimeYear": "97.64%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "90.37%",
+    "uptimeMonth": "92.37%",
+    "uptimeYear": "97.63%",
     "time": 300,
     "timeDay": 211,
     "timeWeek": 185,
@@ -191,7 +191,7 @@
       "2026-08-12": 20,
       "2026-08-14": 79,
       "2026-08-15": 37,
-      "2026-08-16": 0
+      "2026-08-16": 42
     }
   }
 ]
