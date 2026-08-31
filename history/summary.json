@@ -128,19 +128,18 @@
     "url": "https://catalogo-vpfe.dian.gov.co/User/Login",
     "icon": "https://icons.duckduckgo.com/ip3/catalogo-vpfe.dian.gov.co.ico",
     "slug": "produccion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.05%",
-    "uptimeYear": "97.84%",
+    "uptimeYear": "97.86%",
     "time": 279,
-    "timeDay": 76,
-    "timeWeek": 203,
-    "timeMonth": 235,
+    "timeDay": 91,
+    "timeWeek": 191,
+    "timeMonth": 234,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2026-06-14": 97,
       "2026-06-15": 311,
       "2026-06-16": 510,
       "2026-06-18": 595,
@@ -188,7 +187,8 @@
       "2026-08-16": 111,
       "2026-08-17": 75,
       "2026-08-20": 30,
-      "2026-08-23": 18
+      "2026-08-23": 18,
+      "2026-08-31": 0
     }
   }
 ]
